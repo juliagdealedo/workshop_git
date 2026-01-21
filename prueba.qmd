@@ -6,7 +6,7 @@ editor: visual
 
 ## Quarto document
 
-Me imagino que aquí es donde hay unos cambios laralra
+Quarto enables you and me to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
 
